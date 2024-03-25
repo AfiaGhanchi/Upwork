@@ -1,0 +1,272 @@
+.headnavbar {
+    display: flex;
+
+    gap: 10px;
+    padding-top: ;
+    position: absolute;
+    left: 100px;
+    top: 23px;
+
+
+}
+
+
+.upworklogo {
+    position: relative;
+    top: 0px;
+    margin-left: 10px;
+}
+
+.bt {
+    border-radius: 50px;
+    background-color: green;
+    color: white;
+    width: 100px;
+    height: 30px;
+    position: relative;
+    right: 50px;
+
+}
+
+.bt:hover {
+    background-color: rgb(34, 192, 34);
+}
+
+.nav2 {
+    display: flex;
+    gap: 15px;
+    margin-left: 7px;
+    margin-top: 20px;
+
+}
+
+.search {
+    margin-left: 450px;
+
+}
+
+.searchone:hover {
+    background-color: rgba(227, 222, 222, 0.677);
+}
+
+.searchone {
+    border-radius: 50px;
+
+    width: 250px;
+    height: 30px;
+}
+
+.talent {
+    border-radius: 50px;
+    position: relative;
+    left: -55px;
+    width: 80px;
+    height: 30px;
+    text-align: center;
+
+}
+
+.talent:hover {
+    background-color: rgba(227, 222, 222, 0.677);
+}
+
+.login {
+    position: relative;
+    left: -50px;
+}
+
+/* nav close */
+.text {
+    width: 50%;
+    height: 50%;
+    /* background-color: aqua; */
+    padding: 25px;
+
+}
+
+.work {
+    font-weight: bolder;
+    color: rgb(91, 168, 13);
+    font-size: 70px;
+    margin-left: 40px;
+    font-family: serif;
+}
+
+.work::first-letter {
+    font-size: 90px;
+}
+
+.pera {
+    font-size: 25px;
+    margin-left: 10px;
+    color: black;
+}
+
+.btn {
+    background-color: green;
+    color: white;
+    border-radius: 50px;
+    font-size: 15px;
+    margin-left: 70px;
+    width: 130px;
+    height: 40px;
+    margin-top: -10px;
+}
+
+.btn:hover {
+    background-color: rgb(34, 192, 34);
+}
+
+.trusted {
+    color: gray;
+    font-size: 20px;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+
+.ms {
+    margin-left: 60px;
+    width: 120px;
+
+}
+
+.air {
+    margin-left: 25px;
+    width: 80px;
+}
+
+.biss {
+    margin-left: 25px;
+    width: 55px;
+}
+
+.i {
+    margin-top: 15px;
+
+}
+
+.upheadimg {
+    width: 450px;
+    height: 350px;
+    position: absolute;
+    top: 190px;
+    left: 800px;
+
+}
+
+/* home close */
+.video-sec{
+    display: flex;
+   
+
+}
+.video{
+    width: 40%;
+    height: 50%;
+    margin-left: 50px;
+    margin-top: 50px;
+    position:absolute;
+
+}
+.vd{
+  
+}
+.tx{
+    font-size: 40px;
+    position: absolute;
+    left: 630px;
+    top: 750px;
+font-weight: bold;
+}
+.pera1{
+    position: absolute;
+    left:630px ;
+    top: 850px;
+    font-size:20px ;
+}
+.p1{
+    font-size: small;
+}
+.pera2{
+    position: absolute;
+    left:630px ;
+    top: 920px;
+    font-size:20px ;
+}
+.p2{
+    font-size: small;
+}
+.pera3{
+    position: absolute;
+    left:630px ;
+    top: 990px;
+    font-size:20px ;
+}
+.p3{
+    font-size: small;
+}
+.g{
+    border-radius: 50px;
+    background-color: green;
+    color: white;
+    position: absolute;
+    left:630px ;
+    top: 1060px;
+
+}
+.g:hover{
+    background-color: rgb(11, 170, 11);
+}
+.w{
+    border-radius: 50px;
+    background-color: white;
+    color: green;
+    border-color: green;
+    position: absolute;
+    left:800px ;
+    top: 1060px;
+
+
+}
+/* vd sec close */
+.browse{
+    font-size:40px ;
+    position: absolute;
+    top: 1200px;
+    left: 40px;
+}
+.br{
+    font-size: small;
+}
+.card1{
+   
+    width: 100px;
+    height: 70px;
+    position: absolute;
+    top: 1320px;
+    left: 40px;
+}
+.card2{
+   
+    width: 100px;
+    height: 70px;
+    position: absolute;
+   
+    left: 130px;
+}
+.card3{
+   
+    width: 100px;
+    height: 70px;
+    position: absolute;
+   
+    left: 00px;
+}
+.card4{
+   
+    width: 150px;
+    height: 100px;
+    position: absolute;
+   
+    left:630px;
+}
